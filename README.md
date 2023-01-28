@@ -7,3 +7,4 @@ solving hacker rank problems
 #reverse array=> size=arr.size()/2;
 #accumalate(arr.begin(),arr.end(),sum) is used to get sum of array;
 #sort(arr.begin(),arr.end()) to sort the elements in the array;
+#find():The find() function in C++ returns the iterator to the first element that refers to the value we want to search inside a particular range. If the value is not matched, then the function returns the iterator to the last element of the range;
