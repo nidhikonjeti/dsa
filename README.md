@@ -11,3 +11,5 @@ solving hacker rank problems
 day 2:
 #stoi function converts string to integer using <string> header in cpp.
 #graphs:g(v,e) where v=vertices e=edges.Directed vs undirected and weighted and unweighted graphs
+#isUpper(letter) is to find uppercase letter in a string
+#to find strong password using string functions 
