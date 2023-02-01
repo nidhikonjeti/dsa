@@ -13,3 +13,6 @@ day 2:
 #graphs:g(v,e) where v=vertices e=edges.Directed vs undirected and weighted and unweighted graphs
 #isUpper(letter) is to find uppercase letter in a string
 #to find strong password using string functions 
+day 3:
+#unordered map:contains key,value pair.used to find frequency of numbers in an array.
+#cipher text encryption problem using modulus.
