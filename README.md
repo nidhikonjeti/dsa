@@ -16,3 +16,4 @@ day 2:
 day 3:
 #unordered map:contains key,value pair.used to find frequency of numbers in an array.
 #cipher text encryption problem using modulus.
+#to check sequence of string sos "sos"[i%3]
